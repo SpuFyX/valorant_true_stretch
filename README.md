@@ -8,3 +8,10 @@ https://www.nirsoft.net/
 
 3. Windows Defender:
 The script disables the "Generic PnP Monitor" driver, which may cause the executable to be detected by Windows Defender. To avoid this, please whitelist the program in your antivirus settings.
+
+Usage:
+1. Launch "Valorant".
+
+2. In the settings, set the "Display Mode" to "Windowed Full Screen" and the "Aspect Ratio Method" to "Fill".
+
+3. Run "True-Stretched.exe".
